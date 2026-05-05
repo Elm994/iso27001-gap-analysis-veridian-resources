@@ -1,4 +1,4 @@
- # ISO 27001 Gap Analysis & Certification Roadmap  
+# ISO 27001 Gap Analysis & Certification Roadmap  
 ### Veridian Resources — Perth, Western Australia  
 **Fictional Case Study for Learning & Portfolio Demonstration Purposes Only**
 
@@ -20,86 +20,48 @@ The absence of a centralised Information Security Management System (ISMS) resul
 
 ---
 
-## Core Problem
+# 🔍 **How the Assessment Was Conducted (Expert Methodology)**
 
-The organisation’s rapid growth outpaced its security governance maturity. Key issues included:
-
-- No formal risk assessment methodology  
-- No incident response capability  
-- Over‑provisioned access and dormant accounts  
-- No asset register or classification framework  
-- Inconsistent policy adoption  
-- No supplier security controls  
-- No executive‑level governance or reporting  
-
-These gaps created compounding risk across operational, financial, and regulatory domains.
+This assessment followed a structured, repeatable methodology aligned with ISO 27001:2022, NIST SP 800‑30, and industry GRC best practices.  
+The process was executed in six stages:
 
 ---
 
-## Risk & Impact Analysis
+## **1. Scoping & Context Establishment**
+I began by defining the assessment boundaries and understanding the business environment. This included:
 
-### **Financial Risk**
-- Production disruption estimated at **AUD $2M–$8M per day**  
-- Insurance premiums increased by **35%** due to lack of controls  
-- Remediation program cost: **AUD $1.2M over 18 months**
+- Identifying in‑scope systems (OT + IT)  
+- Reviewing organisational structure and reporting lines  
+- Understanding regulatory obligations (SOCI Act, Privacy Act, Essential Eight)  
+- Mapping critical business processes (production, safety, environmental reporting)
 
-### **Operational Risk**
-- 40% of active accounts belonged to former contractors or employees  
-- No incident response plan or escalation paths  
-- No centralised asset register or classification  
-
-### **Reputational Risk**
-- JV partners requested evidence of governance maturity  
-- Contract renewals at risk  
-- Potential regulatory scrutiny affecting social licence to operate  
-
-### **Strategic Risk**
-- Exclusion from tender shortlists requiring ISO 27001  
-- Difficulty integrating acquisitions securely  
+This ensured the assessment reflected **real operational risk**, not just theoretical compliance.
 
 ---
 
-## Decisions & Actions
+## **2. Evidence Collection & Document Review**
+I gathered and analysed all available artefacts, including:
 
-- Conducted a full ISO 27001 Annex A assessment using **NIST SP 800‑30** and **ACSC Essential Eight** maturity principles  
-- Prioritised access control remediation due to high exploitability  
-- Established an incident response capability as a critical first milestone  
-- Developed a four‑phase certification roadmap focused on risk reduction  
-- Normalised asset management before implementing supplier controls  
-- Aligned remediation with **SOCI Act**, **Privacy Act**, and **Essential Eight**  
+- Existing policies and procedures  
+- Network diagrams  
+- Access control lists  
+- Asset inventories (where available)  
+- Incident logs  
+- Supplier contracts  
+- Audit reports (if any)
 
----
-
-## Governance Perspective
-
-The most significant gap was the absence of a centralised governance structure. Without defined ownership, accountability, and reporting, technical controls could not be sustained. Governance was therefore embedded as the foundation of the roadmap, including:
-
-- ISMS governance model  
-- Defined roles and responsibilities  
-- Board‑level reporting  
-- Risk register and review cadence  
+Where documentation was missing, I recorded this as a **control gap**.
 
 ---
 
-## Outcome & Business Value
+## **3. Stakeholder Interviews**
+I conducted structured interviews with key personnel across:
 
-- Identified **18 control gaps** across 14 domains  
-- Delivered a **risk‑based roadmap** with measurable reduction at each phase  
-- Quantified operational and financial exposure  
-- Established ISMS governance and risk ownership  
-- Positioned the organisation for **ISO 27001 certification within 18 months**  
-- Improved tender eligibility and stakeholder confidence  
+- IT  
+- OT operations  
+- HR  
+- Procurement  
+- Site managers  
+- Executive leadership  
 
----
-
-## Expert Insight
-
-ISO 27001 is not a compliance exercise — it is a strategic enabler.  
-For mining and resources organisations, certification demonstrates that information security is treated with the same seriousness as physical safety. The cost of certification is predictable; the cost of not certifying is not.
-
----
-
-## 📬 Feedback Welcome
-
-This case study is a **fictional learning project** designed to demonstrate practical GRC and ISO 27001 capability.  
-Feedback from GRC, cybersecurity, audit, and risk professionals is welcome.
+These interviews validated how controls were actually implemented in practice, not
