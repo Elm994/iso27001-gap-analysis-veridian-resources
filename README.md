@@ -29,7 +29,7 @@ This project delivers:
 
 ---
 
-# 🔍 How the Assessment Was Conducted (Expert Methodology)
+# 🔍 How the Assessment Was Conducted 
 
 This assessment followed a structured, repeatable methodology aligned with ISO 27001:2022, NIST SP 800‑30, and industry GRC best practices.
 
@@ -69,28 +69,6 @@ Created a four‑phase roadmap based on:
 - Regulatory requirements  
 
 ---
-
-# 📁 Repository Contents
-
-### **1. Case Study**  
-Full narrative of the engagement, including context, risks, findings, methodology, and outcomes.  
-📄 [`Case-Study.md`](./Case-Study.md)
-
-### **2. Annex A — ISO 27001 Control Assessment Summary**  
-Detailed evaluation of 38 controls across 14 domains.  
-📄 [`Annex-A-Control-Assessment.md`](./Annex-A-Control-Assessment.md)
-
-### **3. Annex B — Risk Assessment Methodology & Matrix**  
-Likelihood, impact, scoring, and prioritisation logic.  
-📄 [`Annex-B-Risk-Assessment-Methodology.md`](./Annex-B-Risk-Assessment-Methodology.md)
-
-### **4. Certification Roadmap (18 Months)**  
-Phased remediation plan aligned with business risk.  
-📄 [`Roadmap.md`](./Roadmap.md)
-
-### **5. ISMS Lifecycle Diagram**  
-Visual representation of the ISO 27001 continuous improvement cycle.  
-📄 [`Diagram.md`](./Diagram.md)
 
 # 🎯 Key Outcomes
 
