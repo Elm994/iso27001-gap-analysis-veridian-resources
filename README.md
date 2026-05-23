@@ -1,5 +1,5 @@
 # ISO 27001 Gap Analysis & Certification Roadmap  
-### Veridian Resources — Mining & Resources Sector (Perth, Western Australia)  
+### Veridian Resources — Mining & Resources Sector 
 **Fictional Case Study for Learning & Portfolio Demonstration Purposes Only**
 
 This repository presents a complete ISO 27001:2022 gap analysis and certification roadmap developed for **Veridian Resources**, a fictional mid‑sized mining and resources organisation. The project demonstrates expert‑level capability across:
